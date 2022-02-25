@@ -1,0 +1,240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of the honorable William Williams Esq. speaker of the House of Commons, to the honourable House of Commons : upon the electing of him speakrer [sic] in the Parliament at Oxford, Monday the 21th. day of March, 1680/1 : together with his speeches to His Most Excellent Majesty, at the presenting him speaker to His Majesty by the commons in Parliament, upon Tuesday 22th. day of the same month.</title>
+            <author>Williams, William, Sir, 1634-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66462</idno>
+            <idno type="STC">Wing W2782</idno>
+            <idno type="STC">ESTC R10238</idno>
+            <idno type="EEBO-CITATION">12927174</idno>
+            <idno type="OCLC">ocm 12927174</idno>
+            <idno type="VID">95550</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95550)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 991:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of the honorable William Williams Esq. speaker of the House of Commons, to the honourable House of Commons : upon the electing of him speakrer [sic] in the Parliament at Oxford, Monday the 21th. day of March, 1680/1 : together with his speeches to His Most Excellent Majesty, at the presenting him speaker to His Majesty by the commons in Parliament, upon Tuesday 22th. day of the same month.</title>
+                  <author>Williams, William, Sir, 1634-1700.</author>
+               </titleStmt>
+               <extent>[2], 5-17 [i.e. 15] p   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leo. Lichfield, for Gabriel Kunholt ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Williams, William, --  Sir, 1634-1700.</term>
+               <term>England and Wales. --  Parliament. --  House of Commons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:95550:1"/>
+            <!-- PDF PAGE 131 -->
+            <pb facs="tcp:95550:1"/>
+            <!-- PDF PAGE 131 -->
+            <pb facs="tcp:95550:2"/>
+            <!-- PDF PAGE 132 -->
+            <p>BEing ill uſed by Falſe and Miſtaken Re<g ref="char:EOLhyphen"/>preſentations in Writing publiſhed in Coffee-Houſes and other Places, of what I ſaid in my Place in the time of my <hi>Speaker-ſhip</hi> in the laſt Parliament. To prevent Falſities and Mi<g ref="char:EOLhyphen"/>ſtakes relating to what I have ſaid in this Parlia<g ref="char:EOLhyphen"/>ment; I am Content theſe Papers be Printed by <hi>Gabriel Kunholt,</hi> and that No other Perſon pre<g ref="char:EOLhyphen"/>ſume to Print them. Withall, I deſire all Per<g ref="char:EOLhyphen"/>ſons to take Notice, that I ſhall endeavour to bring ſuch perſons to Puniſhment, who ſhall hereafter Publiſh in Writing any thing relating to me in my preſent Service, without my Ap<g ref="char:EOLhyphen"/>probation. <hi>
+                  <g ref="char:V">Ʋ</g>nder my Hand</hi> 23. March, 1680/1.</p>
+            <closer>
+               <signed>
+                  <hi>Wi. Williams</hi> Speaker.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:95550:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 132 -->
+            <p>THE SPEECH Of the Honorable <hi>WILLIAM WILLIAMS</hi> 
+               <abbr>Eſq</abbr> SPEAKER Of the Houſe of COMMONS, To the Honorable Houſe of COMMONS, Upon the Electing of him SPEAKRER in the PARLIAMENT at <hi>OXFORD, Monday</hi> the 21<hi rend="sup">t</hi>sh. day of <hi>March,</hi> 1680/1.</p>
+            <p>TOGETHER, With his Speeches to His Moſt Excellent MAJESTY. At the Preſenting him Speaker to his <hi>Majeſty</hi> by the Commons in Parliament.</p>
+            <p>
+               <g ref="char:V">Ʋ</g>pon <hi>Tueſday</hi> 22th. day of the ſame Month.</p>
+            <p>
+               <hi>OXFORD;</hi> Printed by <hi>Leo. Lichfield,</hi> for <hi>Gabriel Kunholt,</hi> Book-binder to his Highneſs Prince <hi>Rupert,</hi> to be ſold at his Shop overaginſt the <hi>Muſe, London,</hi> MDCLXXXI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:95550:3"/>
+            <!-- PDF PAGE 133 -->
+            <pb n="5" facs="tcp:95550:3"/>
+            <!-- PDF PAGE 133 -->
+            <head>
+               <hi>Numb.</hi> 59<lb/>
+THE SPEECH OF THE Honorable <hi>William Williams</hi> 
+               <abbr>Eſq</abbr> To the Houſe of COMMONS.</head>
+            <head type="sub">Upon the Electing of him Speaker at <hi>Oxford, Munday</hi> 21th. <hi>March,</hi> 1680/1.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T were Vanity in me by Arguments from Weak<g ref="char:EOLhyphen"/>neſs and <g ref="char:V">Ʋ</g>nfit neſs, to diſable my ſelf for Your Service in this Chair at this time.</p>
+            <p>The <g ref="char:V">Ʋ</g>nianimous Voice of the Houſe calling me to this Place, Concludes me, and leaves me without Excuſe. Whom the <hi>Commons</hi> have
+<pb n="6" facs="tcp:95550:4"/>
+               <!-- PDF PAGE 134 -->Elected for this Trust, is to be ſuppoſed Worthy, and Fit for it. Wherefore I must acquieſce in Your Commands.</p>
+            <p>Apprehending this Choice proceeds from the Example you have from Your Countreys by Your own Elections, making this Parliament, as much as in you and them lies, the ſame with the laſt; Therefore You have the ſame Speaker.</p>
+            <p>I ought not to offer any ſort of Aſſurance to this Houſe, of my reſolved Constancy, Fidelity, and Vigilancy, in the diſcharge of this Duty: The Juſt ſence I have of the Honour generou<g ref="char:EOLhyphen"/>ſly given me this day, is Your Stipulation for my good Abearance. The Truſt I owe, and am to anſwer to God, my Religion, to <hi>England</hi> and Engliſh-men in this Service, muſt tye me to do and ſuffer all that Fleſh and Bloud can Act or en<g ref="char:EOLunhyphen"/>dure, in Your Chair.</p>
+            <p>This is not the time to ſpeak Much, but to act Well, without more words then in order to our proper Parliamentary method of Proceeding. <hi>Centlemen,</hi> Admit me to make it my firſt Mo<g ref="char:EOLhyphen"/>tion,
+<pb n="7" facs="tcp:95550:4"/>
+               <!-- PDF PAGE 134 -->That Your Debates and Proceedings, may be Regular and Orderly, without Reflexion, without Paſſion: and that my actings and Behaviour may have your Kind and Candid Con<g ref="char:EOLhyphen"/>ſtruction, and You ſhall find there is not any thing ſo dear to me, which ſhall not be adven<g ref="char:EOLhyphen"/>tured in the Service of the <hi>Commons</hi> in Parlia<g ref="char:EOLhyphen"/>ment by me.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:95550:5"/>
+            <!-- PDF PAGE 135 -->
+            <opener>Ordered</opener>
+            <p>That the Thanks of this Houſe be given to Mr. <hi>Speaker,</hi> for the Speech by him made in the Houſe of <hi>Lords,</hi> upon his being Preſented to His <hi>Majeſty.</hi> And that he be deſired to Print the ſame.</p>
+            <closer>
+               <signed>
+                  <hi>Will. Goldesbrough,</hi> Cler. Dom. Com.</signed>
+            </closer>
+         </div>
+         <div type="speech">
+            <pb n="11" facs="tcp:95550:5"/>
+            <!-- PDF PAGE 135 -->
+            <head>THE SPEECH Of the Honorable <hi>William Williams</hi> 
+               <abbr>Eſq</abbr> To His Moſt Excellent MAJESTY At the Preſenting of him <hi>Speaker</hi> by the <hi>Commons</hi> to His MAJESTY at <hi>OXFORD, <g ref="char:V">Ʋ</g>pon Tueſday</hi> 22th. <hi>March,</hi> 1680/1.</head>
+            <opener>
+               <salute>May it pleaſe Your Majeſty,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE Knights, Citizens, &amp; Burgeſſes in <hi>Parliament</hi> Aſſembled, with Duty and Loyalty agreeable to Themſelves and the Perſons whom they Re<g ref="char:EOLhyphen"/>preſent, have in Obe<g ref="char:EOLhyphen"/>dience to Your Royal Pleaſure, for the Diſpoſing of Themſelves in that Great Aſſembly, for Your Majeſties ſer<g ref="char:EOLhyphen"/>vice Conſidered of a Speaker, and to manifeſt to Your <hi>Majeſty</hi> and the World, They are not inclinable to Changes, have with one Voice E<g ref="char:EOLhyphen"/>lected
+<pb n="12" facs="tcp:95550:6"/>
+               <!-- PDF PAGE 136 -->me Their Speaker, having had the Ho<g ref="char:EOLhyphen"/>nor to ſerve Your Majeſty and the Commons in that Truſt in the laſt Parliament.</p>
+            <p>With all Humility I preſume again, by Their Command, to ſtand before Your Majeſty in this circumſtance, with an Head and Heart full of Loyalty to Your Sacred Perſon: Armed with aſet<g ref="char:EOLhyphen"/>tled Reſolution, never to depart from Your well Conſtituted and Eſtabliſhed Government.</p>
+         </div>
+         <div type="response_to_speech">
+            <head>The Lord Chancellor by His MAJETIES Command, ſaid to this Purpoſe.</head>
+            <opener>
+               <salute>Mr. <hi>Speaker,</hi>
+               </salute>
+            </opener>
+            <p>FOR ſo I am Commanded to call You: His <hi>Majeſty</hi> hath well Conſidered the Choice the <hi>Commons</hi> have made, and doth very much Approve of that Election, and doth Accept and Allow of you their <hi>Speaker.</hi>
+            </p>
+         </div>
+         <div type="speech">
+            <pb n="13" facs="tcp:95550:6"/>
+            <!-- PDF PAGE 136 -->
+            <head>The ſecond Speech of <hi>William Williams</hi> 
+               <abbr>Eſq</abbr> Then Preſented to his Moſt Excellent MAJESTY.</head>
+            <opener>
+               <salute>Moſt Gracious Soveraign,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">N</seg>Atural Allegeance Commands Loy<g ref="char:EOLhyphen"/>alty to Your <hi>Majeſty</hi> from every Subject. Your ſingular Grace and Favour to me in the laſt <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> Confirmed by the Honor I have in this, add more then Dutifulneſs and Obedience to my Loyalty.</p>
+            <p>I am ſet in the firſt Station of Your <hi>Commons,</hi> for Truſt and Quality; an High and Slippery Place. It requires a Steady Head and a well Poiſed Body, in him that will ſtand firm there: Uprightneſs is the ſafe Poſture and beſt Policy, and ſhall be mine in this Place; guarded with this Opinion, that Your Majeſties ſervice in this Truſt, is one and the ſame with the ſervice of Your Commons, and that they are no more to be divided then Your Crown and Scepter.</p>
+            <p>They truly and beſt ſerve the Crown and Country (which ſhall be my Care and Induſtry)
+<pb n="14" facs="tcp:95550:7"/>
+               <!-- PDF PAGE 137 -->who make the Safety of Your Sacred Perſon, the defence and ſecurity of the Proteſtant Religion, the Support of Your Majeſties Government, the Maintenance of the Laws, and Preſervation of the ancient Conſtitutions of Parliament; one and the ſame undevided Intereſt, one and the ſame Safety, one and the ſame inſeperable Security, for your Self and People. Theſe are the Deſires of all Good men; but muſt be the effects of Good Counſels; for the Inabling of your Majeſties great Counſel now in <hi>Parliament</hi> Aſſembled, to Compleat this Bleſſed Eſtabliſh<g ref="char:EOLhyphen"/>ment. With all Humility, I addreſs to your Majeſty, in the Name, and on the behalf of the Commons in <hi>Parliament.</hi>
+            </p>
+            <list>
+               <item>1. <hi>That we and our ſervants may be free in our Perſons and Eſtates, from Arrests and other Diſturbances.</hi>
+               </item>
+               <item>2. <hi>That in our Debates, Liberty and Freedom of Speech be allowed us.</hi>
+               </item>
+               <item>3. <hi>That as occaſion ſhall require, your Majeſty will vouchſafe us Acceſs to your Royal Perſon.</hi>
+               </item>
+            </list>
+            <p>
+               <pb n="15" facs="tcp:95550:7"/>
+               <!-- PDF PAGE 137 -->
+I take leave to join this Humble Petition for my ſelf, that nothing by me in Weakneſs, or through Inadvertency ſaid or done, may turn to the prejudice of the <hi>Commons,</hi> and that my Behaviour and Proceedings, may receive a be<g ref="char:EOLhyphen"/>nigne and favourable Interpretation, with your Gracious Majeſty.</p>
+         </div>
+         <div type="response_to_speech">
+            <pb n="16" facs="tcp:95550:8"/>
+            <!-- PDF PAGE 138 -->
+            <head>The Lord Chancellor by Command from His <hi>Majeſty,</hi> ſaid to this effect.</head>
+            <opener>
+               <salute>Mr. <hi>Speaker,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>LL your Petitions are fully and freely granted by His <hi>Majeſty,</hi> in as large and ample manner, as ever any Houſe of Commons yet enjoyed them: The <hi>King</hi> is very ſure the Wiſdom of this Houſe of Com<g ref="char:EOLhyphen"/>mons, will make as prudent an <g ref="char:V">Ʋ</g>ſe of them, as any of your Anceſtors ever did. Your own particular Petition is grateful to the <hi>King</hi> too, becauſe he knows you will be as Careful to avid Miſtakes, as his Majeſty is ready to Forgive them.</p>
+            <p>And now Mr. <hi>Speaker,</hi> theſe Preliminaries being thus over, the <hi>King</hi> deſires you would haſten to the reſt that are neceſſary to be diſ<g ref="char:EOLhyphen"/>patched,
+<pb n="17" facs="tcp:95550:8"/>
+               <!-- PDF PAGE 138 -->before we can enter upon buſineſs, that ſo we may husband time, which is now more neceſſary then ever; and He hopes this Par<g ref="char:EOLhyphen"/>liament will come to a very happy and proſpe<g ref="char:EOLhyphen"/>rous Concluſion, and that it may do ſo, God Al<g ref="char:EOLhyphen"/>mighty proſper all your Conſultations.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
